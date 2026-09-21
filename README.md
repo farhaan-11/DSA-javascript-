@@ -16,9 +16,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/farhaan-11/DSA-javascript-/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/farhaan-11/DSA-javascript-/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/farhaan-11/DSA-javascript-/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/farhaan-11/DSA-javascript-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
