@@ -4,35 +4,25 @@
  */
 
 
-    function isAlphaNumeric(char) {
-  return /[a-z0-9]/i.test(char);
-}
+
 
 var isPalindrome = function(s = ':aa/') {
     
+const str = s.toLowerCase().replace(/[^a-z0-9]/g, '');
 
-let str=isAlphaNumeric(s)
-let finalString;
-if(str){
-   finalString= s.toLowerCase().replace(/[^a-z0-9]/g, '')
-}
-console.log('str',str)
+    let i = 0;
+    let j = str.length - 1;
 
-console.log('finalString',finalString)
-if(finalString=='') return true
-let i=0;
-let j= finalString?.length -1
-
-    while(i<=j){
-        
-        if(finalString[i]!=finalString[j]) {
-            
-            return false
+    while (i < j) {
+        if (str[i] !== str[j]) {
+            return false;
         }
-        i++
-        j--
+
+        i++;
+        j--;
     }
-    return true
+
+    return true;
 };
 
 console.log(isPalindrome())
