@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/farhaan-11/DSA-javascript-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farhaan-11/DSA-javascript-/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/farhaan-11/DSA-javascript-/tree/master/0560-subarray-sum-equals-k) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/farhaan-11/DSA-javascript-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/farhaan-11/DSA-javascript-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/farhaan-11/DSA-javascript-/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farhaan-11/DSA-javascript-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/farhaan-11/DSA-javascript-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
