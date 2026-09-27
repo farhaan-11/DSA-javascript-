@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/farhaan-11/DSA-javascript-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/farhaan-11/DSA-javascript-/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/farhaan-11/DSA-javascript-/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/farhaan-11/DSA-javascript-/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/farhaan-11/DSA-javascript-/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/farhaan-11/DSA-javascript-/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/farhaan-11/DSA-javascript-/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/farhaan-11/DSA-javascript-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
