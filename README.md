@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farhaan-11/DSA-javascript-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/farhaan-11/DSA-javascript-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/farhaan-11/DSA-javascript-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/farhaan-11/DSA-javascript-/tree/master/0560-subarray-sum-equals-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/farhaan-11/DSA-javascript-/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farhaan-11/DSA-javascript-/tree/master/0242-valid-anagram) |
 ## String
@@ -159,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/farhaan-11/DSA-javascript-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
