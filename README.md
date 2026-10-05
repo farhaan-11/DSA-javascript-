@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/farhaan-11/DSA-javascript-/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/farhaan-11/DSA-javascript-/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/farhaan-11/DSA-javascript-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/farhaan-11/DSA-javascript-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/farhaan-11/DSA-javascript-/tree/master/0739-daily-temperatures) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/farhaan-11/DSA-javascript-/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farhaan-11/DSA-javascript-/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/farhaan-11/DSA-javascript-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/farhaan-11/DSA-javascript-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/farhaan-11/DSA-javascript-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/farhaan-11/DSA-javascript-/tree/master/0567-permutation-in-string) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/farhaan-11/DSA-javascript-/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/farhaan-11/DSA-javascript-/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -165,12 +168,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/farhaan-11/DSA-javascript-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/farhaan-11/DSA-javascript-/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/farhaan-11/DSA-javascript-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/farhaan-11/DSA-javascript-/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/farhaan-11/DSA-javascript-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
