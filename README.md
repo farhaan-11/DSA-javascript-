@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/farhaan-11/DSA-javascript-/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farhaan-11/DSA-javascript-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/farhaan-11/DSA-javascript-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/farhaan-11/DSA-javascript-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/farhaan-11/DSA-javascript-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/farhaan-11/DSA-javascript-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/farhaan-11/DSA-javascript-/tree/master/0238-product-of-array-except-self) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/farhaan-11/DSA-javascript-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/farhaan-11/DSA-javascript-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/farhaan-11/DSA-javascript-/tree/master/0198-house-robber) |
 ## Sliding Window
 |  |
 | ------- |
